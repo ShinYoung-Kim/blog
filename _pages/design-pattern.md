@@ -6,3 +6,4 @@ category: Jekyll
 layout: post
 ---
 
+이제부터 여기에 디자인 패턴 정리한다.
