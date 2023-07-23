@@ -5,6 +5,7 @@ date: 2023-07-23 22:10:00 +0800
 categories: [Design Pattern]
 tags: [Design Pattern]
 render_with_liquid: false
+image: ../assets/img/image/prototype_패턴.png
 ---
 
 # 프로토타입 패턴이 필요한 경우
