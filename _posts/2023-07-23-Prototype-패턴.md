@@ -27,7 +27,7 @@ render_with_liquid: false
 
 프로토타입 패턴은 Prototype, ConcretePrototype, Client를 필요로 한다.
 
-<!-- ![프로토타입 패턴 다이어그램과 실습 다이어그램](../assets/img/image/prototype_패턴.png) -->
+![프로토타입 패턴 다이어그램과 실습 다이어그램](../assets/img/image/prototype_패턴.png)
 
 ## Prototype 인터페이스
 
