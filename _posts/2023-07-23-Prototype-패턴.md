@@ -1,7 +1,7 @@
 ---
 title: Prototype 패턴(프로토타입 패턴)
 author: lukey0515
-date: 2023-07-23 22:10:00 +0800
+date: 2023-07-23 20:00:00 +0800
 categories: [Design Pattern]
 tags: [Design Pattern]
 render_with_liquid: false
@@ -189,4 +189,5 @@ public class MessageBox implements Product{
 > 이전과 달리 Cloneable을 확장하지 않고, clone 대신 복사 생성자를 통해 인스턴스를 만든다.
 
 ❓그렇다면 굳이 clone 메서드롤 protected로 선언해놓은 이유는?
+
 ❓복사 생성자를 통해 만드는 방식이 결국엔 생성자를 통해 만드는 방식과 크게 다를 게 없지 않나?
