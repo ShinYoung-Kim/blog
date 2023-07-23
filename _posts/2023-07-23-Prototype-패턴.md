@@ -1,7 +1,7 @@
 ---
 title: Prototype 패턴(프로토타입 패턴)
 author: lukey0515
-date: 2023-07-23 20:00:00 +0800
+date: 2023-07-22 20:00:00 +0800
 categories: [Design Pattern]
 tags: [Design Pattern]
 render_with_liquid: false
